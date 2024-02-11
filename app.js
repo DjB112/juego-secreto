@@ -89,9 +89,9 @@ function reiniciarJuego(){
 }
 
 function resetDeUsuario(){
-    intentosMax = 5;
-    nuevoJuegoMax = 4;
-    valorMax = 10;
+    intentosMax = 8;
+    nuevoJuegoMax = 5;
+    valorMax = 100;
     nuevoJuegos=0;
 
     numeroSecreto = 0;
